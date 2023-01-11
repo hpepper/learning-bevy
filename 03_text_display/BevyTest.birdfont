@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<font>
+<format>2.3</format>
+<program version="2.30.0" os="*nix" />
+
+<postscript_name>Typeface</postscript_name>
+<name>Typeface</name>
+<subfamily>Regular</subfamily>
+<bold>false</bold>
+<italic>false</italic>
+<full_name>BevyTest</full_name>
+<unique_identifier>BevyTest</unique_identifier>
+<version>Version 0.1.0</version>
+<description>A few Character for testing Fonts/test in bevy.</description>
+<copyright>None</copyright>
+<license>none</license>
+<license_url></license_url>
+<weight>400</weight>
+<units_per_em>1024</units_per_em>
+<trademark></trademark>
+<manufacturer></manufacturer>
+<designer></designer>
+<vendor_url></vendor_url>
+<designer_url></designer_url>
+
+<horizontal>
+	<top_limit>84</top_limit>
+	<top_position>72</top_position>
+	<x-height>56</x-height>
+	<base_line>0</base_line>
+	<bottom_position>-20</bottom_position>
+	<bottom_limit>-27</bottom_limit>
+</horizontal>
+
+<background scale="1" />
+
+<collection unicode="U+41">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="28">
+		<layer name= "Layer" visible="true">
+			<path data="S -14.18905,3.40746 L -24.44179,3.22438 L -7.68955,64.64925 L -5.85871,66.84627 L 8.51343,66.75473 L 6.95721,64.1 L 3.57015,64.28308 L 20.41393,3.22438 L 8.14726,3.13284 D 5.76716,17.71095 -1.37413,61.44527 -1.37313,61.44527 L -14.18905,3.40746" />
+			<path data="S -8.51343,29.0393 D -8.42189,29.22239 1.55522,28.58159 1.55622,28.58159 L 3.75323,30.04627 L 3.38706,31.69403 L -7.87264,32.15174 D -8.03284,31.37363 -8.60498,28.85622 -8.51343,29.0393" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+42">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="28">
+		<layer name= "Layer" visible="true">
+			<path data="S -22.61095,66.4801 L -14.64677,66.4801 L -10.16119,60.89602 L -10.89353,7.89303 L -15.74527,1.57662 L -23.801,1.57662 D -23.27463,2.33184 -21.69652,4.59751 -21.69552,4.59751 L -18.21692,6.97761 L -17.30149,58.88209 L -21.05473,62.3607 L -22.61095,66.4801" />
+			<path data="S -10.25274,57.14279 L 6.13333,57.14279 D 6.13233,57.14279 9.70348,54.87711 10.89353,54.12189 L 10.80199,42.6791 L -11.35124,43.50299 L -10.80199,38.37662 L 12.90746,38.01045 L 16.6607,43.50299 D 16.6597,43.50299 16.6607,52.01642 16.6607,54.85423 L 8.51343,60.71294 L -10.06965,60.89602 L -10.25274,57.14279" />
+			<path data="S 12.81592,38.10199 L 12.63284,12.28706 L 10.06965,7.70995 L -10.61891,7.89303 L -10.80199,14.66716 L 7.68955,14.301 L 7.59801,32.79254 L 5.30945,34.4403 L -10.80199,34.89801 L -10.34428,38.37662 L 12.81592,38.10199" />
+			<path data="S -11.07662,43.59453 L -11.07662,43.59453 O" />
+			<path data="S -77.7194,45.42537 D -61.05131,45.54033 -72.70635,41.93879 -77.7194,45.42537 O" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+58">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="28">
+		<layer name= "Layer" visible="true">
+			<path data="S -22.24478,65.38159 L -13.6398,65.47313 L 19.49851,5.42139 L 22.61095,3.04129 L 12.54129,2.94975 L -19.77313,63.27612 L -22.24478,65.38159" />
+			<path data="S 20.50547,65.47313 L 13.09055,65.56468 L -13.73134,3.77363 L -21.23781,3.77363 L -19.0408,6.15373 L 7.78109,65.93085 L 20.50547,65.47313" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+59">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="28">
+		<layer name= "Layer" visible="true">
+			<path data="S -22.06169,64.83234 D -19.84179,64.80945 -13.18309,64.7408 -13.18209,64.7408 L 0.09154,39.10896 L 9.97811,64.64925 L 20.96318,64.64925 L 18.21692,63.18458 L 14.92139,62.81841 L 2.74627,35.99652 L 3.0209,11.46318 L 5.30945,10.6393 L -4.94328,10.91393 L -1.7393,12.19552 L -1.64776,36.54577 L -16.29453,62.26915 L -20.59701,62.81841 L -22.06169,64.83234" />
+		</layer>
+	</glyph>
+</collection>
+
+
+
+
+</font>
